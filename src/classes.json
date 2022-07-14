@@ -1,0 +1,39 @@
+{
+    "Mon":[
+        {
+            "time" : "04:23:31",
+            "name" : "programming101"
+        },
+        {
+            "time" : "05:02:54",
+            "name" : "programming102"
+        }
+
+
+    ],
+    "Tue":[
+
+
+
+    ],
+    "Wed":[
+
+
+    ],
+    "Thu":[
+        {
+        "time" : "05:14:50",
+        "name" : "eieiei"
+        },
+        
+        {
+            "time" : "05:17:40",
+            "name" : "programming"
+        }
+    ],
+    "Fri":[
+
+
+    ]
+
+}
